@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Yugal Jain 👋
 
-<!--
-**Yugaljain02/Yugaljain02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student at SKIT Jaipur  
+💻 MERN Stack Developer | DSA Learner  
+🚀 Preparing for Product Based Companies  
+📚 Currently learning DBMS, OS, solving problems on LeetCode  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+- 💻 Languages: C, C++, JavaScript
+- 🌐 Frontend: HTML, CSS, React.js
+- ⚙️ Backend: Node.js, Express.js
+- 🗄️ Database: MongoDB, DBMS
+- 🧠 Core Subjects: DBMS, OS
+  
+
+---
+
+## 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=Yugaljain02&show_icons=true&theme=radical)
+
+![streak](https://streak-stats.demolab.com/?user=Yugaljain02&theme=radical)
+
+---
+
+## 🧠 DSA & Coding Profiles
+
+- LeetCode: https://leetcode.com/u/pby596LINY/
+- GitHub: https://github.com/Yugaljain02
+
+---
+
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yugal-jain-201529322)
+
+📧 Email: jyugaljain@gmail.com
+
+---
+
+⭐ Consistency is the key to success
