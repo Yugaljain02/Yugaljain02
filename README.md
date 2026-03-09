@@ -3,7 +3,7 @@
 🎓 B.Tech IT Student at SKIT Jaipur  
 💻 MERN Stack Developer | DSA Learner  
 🚀 Preparing for Product Based Companies  
-📚 Currently learning DBMS, OS, solving problems on LeetCode  
+📚 Currently learning DBMS, OS and solving problems on LeetCode  
 
 
 ---
