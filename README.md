@@ -23,8 +23,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yugaljain02&show_icons=true&theme=radical)
 
 
-
-
 ---
 
 ## 🧠 DSA & Coding Profiles
