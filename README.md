@@ -23,7 +23,7 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Yugaljain02&show_icons=true&theme=radical)
 
-![streak](https://streak-stats.demolab.com/?user=Yugaljain02&theme=radical)
+
 
 ---
 
