@@ -26,7 +26,6 @@
 
 ## 🧠 DSA & Coding Profiles
 
-- LeetCode: https://leetcode.com/u/pby596LlNY
 - GitHub: https://github.com/Yugaljain02
 
 ---
